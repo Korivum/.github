@@ -103,35 +103,26 @@ And better decisions create lasting impact.
 
 ---
 
-# Technologies
+# Our Approach
 
-Our technology stack evolves continuously according to the needs of each project.
+Every project begins with understanding.
 
-Current areas include:
+Before writing code, building models or automating processes, we seek to understand how systems work, where complexity originates and what truly drives outcomes.
 
-- TypeScript
-- React
-- Next.js
-- Python
-- PostgreSQL
-- Supabase
-- Docker
-- GitHub
-- Cloud Technologies
-- Artificial Intelligence
+We combine engineering, analytics and research to transform information into knowledge and knowledge into better decisions.
 
-Technology is never the objective.
+Technology is one of our tools.
 
-It is the instrument.
+Understanding is our starting point.
 
 ---
 
 # Let's Connect
 
-🌐 https://korivum.com
+https://korivum.com
 
-📧 hello@korivum.com
+hello@korivum.com
 
 ---
 
-> **Turning complexity into understanding.**
+**Understand. Analyze. Improve.**
