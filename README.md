@@ -2,32 +2,15 @@
 
 > **Turning complexity into understanding.**
 
-Korivum is an independent technology, analytics and research studio focused on understanding complex systems, transforming data into knowledge, and building solutions that solve root causes rather than symptoms.
+Korivum is an independent technology, analytics and research studio.
 
-We believe that every problem can be understood before it can be solved.
+We help transform complex systems into clear, actionable knowledge by combining engineering, data analysis, artificial intelligence and scientific thinking.
 
----
-
-## What We Do
-
-Korivum operates at the intersection of technology, data and decision-making.
-
-Our work includes:
-
-- Software Engineering
-- Artificial Intelligence
-- Data Analysis & Business Intelligence
-- Process Automation
-- Systems Integration
-- Decision Support Systems
-- Scientific Computing
-- Research & Development
+We believe that every meaningful solution begins with understanding.
 
 ---
 
-## Why Korivum
-
-## Why Korivum
+# Why Korivum
 
 Every organization generates data.
 
@@ -35,75 +18,120 @@ Every process creates complexity.
 
 Every challenge leaves clues.
 
-Our mission is to transform complexity into understanding by combining engineering, analytics and artificial intelligence.
+Our mission is to transform complexity into understanding by combining technology, analytics and research.
 
 We believe that better decisions come from deeper understanding.
 
 For this reason, we don't start with solutions.
 
-We start with questions.
+**We start with questions.**
 
 ---
 
-## Our Philosophy
+# What We Do
 
-Technology is not the goal.
+Korivum develops technologies and analytical solutions that help organizations understand, optimize and improve the way they operate.
 
-Understanding is.
+Our work spans multiple disciplines where technology and data meet real-world decision making.
 
-Software, artificial intelligence and data are tools that help organizations make better decisions, optimize processes and solve real-world problems.
-
-Rather than treating symptoms, we focus on identifying the underlying causes.
+We focus on building solutions that are reliable, maintainable and designed to create long-term value.
 
 ---
 
-## Areas of Interest
+# Core Disciplines
 
-- Artificial Intelligence
-- Data Science
-- Software Architecture
-- Analytics
-- Automation
-- Bioinformatics
-- Scientific Research
-- System Design
-- Operations Research
-- Knowledge Engineering
+### Technology
+
+Designing and developing modern software systems that are scalable, maintainable and reliable.
+
+### Data & Analytics
+
+Transforming raw data into meaningful insights that support better decisions.
+
+### Artificial Intelligence
+
+Applying machine learning and intelligent systems to solve practical problems.
+
+### Automation
+
+Reducing repetitive work through intelligent workflows and digital processes.
+
+### Systems Engineering
+
+Understanding how technologies, processes and people interact within complex systems.
+
+### Research
+
+Exploring new methods, technologies and scientific approaches to continuously improve our solutions.
 
 ---
 
-## Current Projects
+# Our Principles
+
+- Understand before building.
+- Evidence over assumptions.
+- Simplicity scales.
+- Data drives better decisions.
+- Automation should empower people.
+- Quality is a long-term investment.
+- Continuous learning creates continuous improvement.
+
+---
+
+# Current Projects
 
 | Project | Status | Description |
 |---------|--------|-------------|
 | Korivum Website | 🚧 In Progress | Official company website |
 | SC Manager | 🚧 In Progress | ERP & CRM platform |
 | Automation Lab | 🧪 Research | Workflow automation and AI experiments |
-| Analytics Lab | 🧪 Research | Data analysis and decision support tools |
+| Analytics Lab | 🧪 Research | Decision support and data analysis tools |
 
 ---
 
-## Principles
+# Long-Term Vision
 
-- Understand before building.
-- Simplicity scales.
-- Data drives decisions.
-- Automation should empower people.
-- Continuous learning is a competitive advantage.
-- Quality over quantity.
+Korivum aims to become a trusted technology and analytics partner capable of combining engineering, artificial intelligence, data science and research to solve complex real-world problems.
 
----
+Our ambition is not simply to build software.
 
-## Vision
+Our ambition is to improve understanding.
 
-To become a trusted technology partner capable of combining engineering, artificial intelligence and data analysis to transform complexity into clarity.
+Because better understanding leads to better decisions.
+
+And better decisions create lasting impact.
 
 ---
 
-## Connect
+# Technologies
+
+Our technology stack evolves continuously according to the needs of each project.
+
+Current areas include:
+
+- TypeScript
+- React
+- Next.js
+- Python
+- PostgreSQL
+- Supabase
+- Docker
+- GitHub
+- Cloud Technologies
+- Artificial Intelligence
+
+Technology is never the objective.
+
+It is the instrument.
+
+---
+
+# Let's Connect
 
 🌐 https://korivum.com
 
+📧 hello@korivum.com
+
 ---
 
-*"Turning complexity into understanding."*
+> **Turning complexity into understanding.**
